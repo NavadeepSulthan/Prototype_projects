@@ -4,7 +4,7 @@ This repository contains AI/ML-based prototypes designed for fast iteration, rea
 
 ## 🚀 Prototypes
 
-### 1. [AI Resume Evaluator](./Resume-Evaluator)
+### 1. [AI Resume Evaluator](./Resume_evaluator)
 - Upload resume + JD
 - Cosine Similarity, Skill Match, ATS score
 - Gemini LLM for match summary, strengths, weaknesses, improvements
